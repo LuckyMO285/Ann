@@ -1,0 +1,14 @@
+{
+  "dev1": {
+    "login": "dev1",
+    "password": "password"
+  },
+  "tester1": {
+    "login": "tester1",
+    "password": "password"
+  },
+  "lead1": {
+    "login": "lead1",
+    "password": "password"
+  }
+}
